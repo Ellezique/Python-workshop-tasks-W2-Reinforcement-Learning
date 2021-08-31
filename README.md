@@ -12,3 +12,5 @@
 4.	Taxi
 5.	Random frozen lake
 6.	tic tac toe (make your own gym environment!)
+
+![Algorithm](docs/gym_algorithm.PNG)
