@@ -5,7 +5,7 @@
 
 ### Tasks
 [Open AI Gym](https://gym.openai.com/)
-1.	Default (3x4) frozen lake
+1.	Default (4x4) frozen lake
 2.	Slippery frozen lake 
 3.	Cart pole
 ### Bonus tasks
