@@ -1,7 +1,7 @@
 ## RL workshop tasks
 ### Materials
-[Deeplizard’s playlist for reinforcement learning](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) 
-[Thomas Simonini Q-Learning course](https://thomassimonini.medium.com/q-learning-lets-create-an-autonomous-taxi-part-1-2-3e8f5e764358)
+- [Deeplizard’s playlist for reinforcement learning](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) 
+- [Thomas Simonini Q-Learning course](https://thomassimonini.medium.com/q-learning-lets-create-an-autonomous-taxi-part-1-2-3e8f5e764358)
 
 ### Tasks
 [Open AI Gym](https://gym.openai.com/)
