@@ -17,3 +17,6 @@
 
 ### Open Ai Gym Wiki (solve criteria)
 e.g. https://github.com/openai/gym/wiki/MountainCar-v0#solved-requirements
+
+- https://github.com/openai/gym/wiki/FrozenLake-v0
+- https://github.com/openai/gym/wiki/MountainCar-v0#solved-requirements
