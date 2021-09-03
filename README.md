@@ -14,3 +14,6 @@
 6.	tic tac toe (make your own gym environment!)
 
 ![Algorithm](docs/gym_algorithm.PNG)
+
+### Open Ai Gym Wiki (solve criteria)
+e.g. https://github.com/openai/gym/wiki/MountainCar-v0#solved-requirements
